@@ -1,0 +1,3 @@
+[submodule "unity/vendor/tlplib"]
+	path = unity/vendor/tlplib
+	url = git@github.com:tinylabproductions/tlplib.git
